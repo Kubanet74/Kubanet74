@@ -5,5 +5,4 @@
 - 🤔 Siempre dispuesto a recibir ayuda en todo lo relacionado a la programación.
 - 📫 Os podeis poner en contacto conmigo aqui: ivanrullo@hotmail.com
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiKubanet74=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Kubanet74's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kubanet74&hide=contribs,prs)
