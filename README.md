@@ -6,4 +6,4 @@
 - 📫 Os podeis poner en contacto conmigo aqui: ivanrullo@hotmail.com
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Kubanet74=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiKubanet74=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
